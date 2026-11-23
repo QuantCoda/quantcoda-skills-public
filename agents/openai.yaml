@@ -1,0 +1,4 @@
+interface:
+  display_name: "QuantCoda"
+  short_description: "Individual-stock and sector research system"
+  default_prompt: "Use $quantcoda to research an individual stock or a sector, produce the right versioned artifact, validate its stage gate, and preserve sourced, time-stamped evidence across the public-data research loop."
